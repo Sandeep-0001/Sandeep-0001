@@ -1,4 +1,14 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/76155456/155187006-4ef09ed3-3869-499f-84c3-7bdaa68f73d4.png" width="1000px"/>
+
+<h1 align="center">Hey Everyone 👋, I'm Sandeep</h1>
+<h3 align="center">A passionate Web Developer  From India 🇮🇳</h3>
+
+# 💫 About Me:
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+🔭 I’m currently working on Myself<br><br>🌱 I’m currently learning Next js, Node js and TypeScript<br>
+
+<br>👨‍💻 All of my projects are available at https://github.com/piyushvermaa<br><br>📝 I regularly solving problems on https://leetcode.com/stellar07/<br><br>💬 Ask me about Javascript, React, Gsap and C++<br><br>📫 How to reach me piyushsoniiii.07@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/piyush-verma-883a26248
+
 
 <!--
 **Sandeep-0001/Sandeep-0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
