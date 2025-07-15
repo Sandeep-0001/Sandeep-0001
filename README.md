@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/refs/heads/master/gif4.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/refs/heads/master/gif4.gif">
 
 - 🎓 I'm a 3rd-year B.Tech Computer Science student  
 - 💻 Strong in **DSA with C++**, solving problems daily on LeetCode  
