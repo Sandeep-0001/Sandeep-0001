@@ -27,7 +27,7 @@
 
 ---
 ![profile count](https://komarev.com/ghpvc/?username=sandeep-0001&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/sandeep-0001?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+[![GitHub Sandeep-0001](https://img.shields.io/github/followers/sandeep-0001?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 
 ---
 
