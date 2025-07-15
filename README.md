@@ -20,9 +20,11 @@
 - 📫 Reach me at: `mrsandeepg0001@gmail.com`  
 - 📄 Connect on [LinkedIn](https://www.linkedin.com/in/sandeep-gupta0001/)  
 - 🧠 LeetCode Daily: [leetcode.com/sandeep_0001](https://leetcode.com/u/Sandeep_0001/)
+  
 
 ---
-
+![profile count](https://komarev.com/ghpvc/?username=sandeep-0001&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/sandeep-0001?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 
 ---
 
