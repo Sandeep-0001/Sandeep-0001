@@ -9,7 +9,7 @@
 
 ## 💫 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/refs/heads/master/gif4.gif">
 
 - 🎓 I'm a 3rd-year B.Tech Computer Science student  
 - 💻 Strong in **DSA with C++**, solving problems daily on LeetCode  
@@ -21,6 +21,9 @@
 - 📄 Connect on [LinkedIn](https://www.linkedin.com/in/sandeep-gupta0001/)  
 - 🧠 LeetCode Daily: [leetcode.com/sandeep_0001](https://leetcode.com/u/Sandeep_0001/)
   
+
+
+
 
 ---
 ![profile count](https://komarev.com/ghpvc/?username=sandeep-0001&color=red)&nbsp;
