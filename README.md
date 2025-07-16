@@ -39,12 +39,12 @@
 </p>
 
 ---
-
+<!--
 ## 🏆 LeetCode Progress
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Sandeep_0001?theme=dark&font=Montserrat" />
 </p>
 
-
+-->
 ---
